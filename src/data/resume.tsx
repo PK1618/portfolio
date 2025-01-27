@@ -82,12 +82,6 @@ export const DATA = {
 
                                 navbar: true,
                         },
-                        //       Youtube: {
-                        //         name: "Youtube",
-                        //         url: "youtube.com/channel/UC3na5XHjvIg6kVATi1TP3jQ",
-                        //         icon: Icons.youtube,
-                        //         navbar: false,
-                        //       },
                         email: {
                                 name: "Send Email",
                                 url: "mailto:satyapavan30@gmail.com",
@@ -109,7 +103,7 @@ export const DATA = {
                         href: "https://oyorooms.com/",
                         badges: [],
                         location: "Haryana, Gurgoan",
-                        title: "Software Development Engineer II",
+                        title: "Software Engineer II",
                         logoUrl: "https://tse3.mm.bing.net/th?id=OIP.764pVAF7eWc3Bmgb0_1C_wAAAA&pid=Api&P=0&h=220",
                         start: "Sep 2019",
                         end: "Dec 2022",
@@ -152,11 +146,6 @@ export const DATA = {
                                         href: "https://react-my-burger-ec04f.web.app/",
                                         icon: <Icons.globe className="size-3" />,
                                 },
-                                // {
-                                //         type: "Source",
-                                //         href: "",
-                                //         icon: <Icons.github className="size-3" />,
-                                // },
                         ],
                         image:
                                 "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTU4MmVkYWJpZm80ZWlqbDZtNzh1eXVoMDJ1dnU3bnV3MHE1ZHFrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0K4pfi9qpnKQU3VC/giphy.gif",
