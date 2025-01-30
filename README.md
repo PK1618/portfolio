@@ -19,7 +19,7 @@ Made from scratch Nextjs portfolio with magic ui for animations and components.
 
 1. First clone the repo
    ```bash
-   git clone https://github.com/POBOROJO/portfolio.git
+   git clone https://github.com/PK1618/portfolio.git
    ```
 
 2. Install dependencies
