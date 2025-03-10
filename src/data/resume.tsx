@@ -58,8 +58,8 @@ export const DATA = {
                 // { href: "/blog", icon: NotebookIcon, label: "Blog" },
         ],
         contact: {
-                email: "satyapavan30@gmail.com",
-                tel: "+1 (314) 648-5297",
+                email: "gsatyapavankalyan21@gmail.com",
+                tel: "+1 (314) 441-5954",
                 social: {
                         GitHub: {
                                 name: "GitHub",
@@ -84,13 +84,13 @@ export const DATA = {
                         },
                         email: {
                                 name: "Send Email",
-                                url: "mailto:satyapavan30@gmail.com",
+                                url: "mailto:gsatyapavankalyan21@gmail.com",
                                 icon: Icons.email,
                                 navbar: true,
                         },
                         "Download CV": {
                                 name: "Download Resume",
-                                url: "https://drive.google.com/file/d/15zIpnmpeVKJs_OG0KfXwRvoKg7C_74MC/view?usp=drive_link",
+                                url: "https://drive.google.com/file/d/11Mo7PZHx3TIDBZ4IscH2HWOSlVjBuviL/view?usp=drive_link",
                                 icon: Icons.download,
                                 navbar: true,
                         },
