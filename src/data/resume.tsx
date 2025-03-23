@@ -103,12 +103,12 @@ export const DATA = {
                         href: "https://oyorooms.com/",
                         badges: [],
                         location: "Haryana, Gurgoan",
-                        title: "Software Engineer II",
+                        title: "Software Development Engineer II",
                         logoUrl: "https://tse3.mm.bing.net/th?id=OIP.764pVAF7eWc3Bmgb0_1C_wAAAA&pid=Api&P=0&h=220",
                         start: "Sep 2019",
                         end: "Dec 2022",
                         description:
-                                "Experienced Software Developer with expertise in migrating platforms to unified ecosystems using RESTful APIs and developing interactive dashboards with React.js. Proven ability to optimize backend efficiency by reducing API response times through SQL and caching optimizations, and implementing CI/CD pipelines with Jenkins and Docker for seamless deployments. At OYO Rooms, spearheaded property onboarding solutions, engineered dynamic coupon management APIs, and enhanced system efficiency with caching layers, achieving a 40% reduction in query execution time. Skilled in Agile collaboration, automated testing, and DevOps practices using Terraform and AWS.",
+                                "Experienced Software Developer with expertise RESTful APIs and developing interactive user interfaces/Single Page applications with ReactJS. Proven ability to optimize backend efficiency by reducing API response times through SQL and caching optimizations, and implementing CI/CD pipelines with Jenkins and Docker for seamless deployments. At OYO Rooms, spearheaded property onboarding solutions, engineered dynamic coupon management APIs, and enhanced system efficiency with caching layers, achieving a 40% reduction in query execution time. Skilled in Agile collaboration, automated testing, and DevOps practices using Terraform and AWS.",
                 },
         ],
         education: [
