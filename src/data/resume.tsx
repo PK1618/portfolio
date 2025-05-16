@@ -11,7 +11,7 @@ export const DATA = {
   description:
     "Passionate Full Stack Developer | Data Enthusiast | Machine Learning & Deep Learning Enthusiast",
   summary:
-    "I’m a Full Stack Developer skilled in HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, and AWS, with a growing expertise in Next.js. I specialize in creating dynamic, responsive web applications. I’m also passionate about machine learning, deep learning, and data analysis, using data to uncover insights and drive decision-making. I love tackling challenges and delivering impactful, tech-driven solutions.",
+    "I’m a Full Stack Developer skilled in HTML, CSS, JavaScript, ReactJs, Java, SpringBoot, MicroServices, Node.js, Express.js, MongoDB, and AWS, with a growing expertise in Next.js. I specialize in creating dynamic, responsive web applications. I’m also passionate about machine learning, deep learning, and data analysis, using data to uncover insights and drive decision-making. I love tackling challenges and delivering impactful, tech-driven solutions.",
   avatarUrl: avatarImg,
   skills: [
     "React",
