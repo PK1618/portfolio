@@ -92,7 +92,7 @@ export const DATA = {
       },
       "Download CV": {
         name: "Download Resume",
-        url: "https://drive.google.com/file/d/11Mo7PZHx3TIDBZ4IscH2HWOSlVjBuviL/view?usp=drive_link",
+        url: "https://drive.google.com/file/d/1Ul1EShG5RXuMy9HfLK9IV_oTLftPQFO5/view?usp=drive_link",
         icon: Icons.download,
         navbar: true,
       },
