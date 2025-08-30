@@ -9,9 +9,9 @@ export const DATA = {
   location: "St.Louis, MO, USA",
   locationLink: "",
   description:
-    "Passionate Full Stack Developer | Data Enthusiast | Machine Learning & Deep Learning Enthusiast",
+    "Software Engineer (Frontend & Backend) | Building Scalable, Secure, and User-Centric Applications | Cloud & AI Enthusiast",
   summary:
-    "I’m a Full Stack Developer skilled in HTML, CSS, JavaScript, ReactJs, Java, SpringBoot, MicroServices, Node.js, Express.js, MongoDB, and AWS, with a growing expertise in Next.js. I specialize in creating dynamic, responsive web applications. I’m also passionate about machine learning, deep learning, and data analysis, using data to uncover insights and drive decision-making. I love tackling challenges and delivering impactful, tech-driven solutions.",
+    "I’m a Software Engineer experienced in building scalable, secure, and user-friendly applications using technologies like React, Angular Java, Spring Boot, Node.js, .NET and AWS. I enjoy working across the stack — from creating responsive UIs to designing robust APIs and cloud-native solutions. Passionate about data, AI, and continuous learning, I thrive in collaborative teams and love turning complex challenges into impactful solutions.",
   avatarUrl: avatarImg,
   skills: [
     "React",
@@ -25,8 +25,10 @@ export const DATA = {
     "AWS",
     "MongoDB",
     "GCP",
+    "Azure",
     "SQL",
     "Java",
+    ".NET",
     "SpringBoot",
     "MicroServices",
     "C++",
@@ -52,8 +54,7 @@ export const DATA = {
     "Data Analysis",
     "Data Visualization",
     "Predictive Analytics",
-    "Statistical Analysis",
-    "Tableau",
+    "Statistical Analysis"
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
@@ -92,7 +93,7 @@ export const DATA = {
       },
       "Download CV": {
         name: "Download Resume",
-        url: "https://drive.google.com/file/d/1Fu89O_yqa3g9KpsSCUq8TWyKEh3lKxqR/view?usp=drive_link",
+        url: "",
         icon: Icons.download,
         navbar: true,
       },
@@ -100,18 +101,6 @@ export const DATA = {
   },
 
   work: [
-    {
-      company: "OYO ROOMS",
-      href: "https://oyorooms.com/",
-      badges: [],
-      location: "Haryana, Gurgoan",
-      title: "Software Development Engineer II",
-      logoUrl: "https://tse3.mm.bing.net/th?id=OIP.764pVAF7eWc3Bmgb0_1C_wAAAA&pid=Api&P=0&h=220",
-      start: "Sep 2019",
-      end: "Dec 2022",
-      description:
-        "Experienced Software Developer with expertise RESTful APIs and developing interactive user interfaces/Single Page applications with ReactJS. Proven ability to optimize backend efficiency by reducing API response times through SQL and caching optimizations, and implementing CI/CD pipelines with Jenkins and Docker for seamless deployments. At OYO Rooms, spearheaded property onboarding solutions, engineered dynamic coupon management APIs, and enhanced system efficiency with caching layers, achieving a 40% reduction in query execution time. Skilled in Agile collaboration, automated testing, and DevOps practices using Terraform and AWS.",
-    },
     {
       company: "JP Morgan & Chase",
       href: "https://www.jpmorganchase.com/",
@@ -122,7 +111,19 @@ export const DATA = {
       start: "Jan 2024",
       end: "Present",
       description:
-        "Experienced Full-stack engineer specializing in React/Redux/Tailwind front-ends and Java Spring Boot microservices, powering a 5,000+ DAU payment platform with real-time GraphQL and WebSocket APIs that cut data-fetch latency by 40%. Expert in OAuth2/JWT security with Keycloak, CI/CD-driven testing (95% coverage), and Kubernetes/EKS deployments—delivering AA-compliant dashboards, 30% faster load times, and mentoring junior engineers.",
+        "At JPMorgan Chase, I helped build systems that made banking safer and more transparent for millions of users. I worked on a real-time fraud detection platform, built secure APIs, and developed an investment dashboard that gave clients clearer insights into their portfolios. I also streamlined deployments with CI/CD automation and set up monitoring tools to keep services reliable. Beyond the tech, I enjoyed mentoring teammates and collaborating across teams to deliver solutions that truly made an impact.",
+    },
+    {
+      company: "OYO ROOMS",
+      href: "https://oyorooms.com/",
+      badges: [],
+      location: "Haryana, Gurgoan",
+      title: "Software Development Engineer II",
+      logoUrl: "https://tse3.mm.bing.net/th?id=OIP.764pVAF7eWc3Bmgb0_1C_wAAAA&pid=Api&P=0&h=220",
+      start: "Sep 2019",
+      end: "Dec 2022",
+      description:
+        "At OYO Rooms, I worked on building and scaling the hotel booking platform that powered thousands of reservations every day. I focused on making the system faster and more reliable by improving APIs, adding caching, and streamlining deployments. On the front end, I built reusable Angular components and worked with designers to create responsive, user-friendly interfaces. I also got the chance to integrate OYO with global platforms like Expedia and Booking.com, making bookings seamless across channels. Beyond the code, I enjoyed mentoring teammates and learning how to deliver technology that truly supported both the business and its users.",
     },
   ],
   education: [
