@@ -61,8 +61,8 @@ export const DATA = {
     // { href: "/blog", icon: NotebookIcon, label: "Blog" },
   ],
   contact: {
-    email: "gsatyapavankalyan21@gmail.com",
-    tel: "+1 (314) 441-5954",
+    email: "satyapavan.k@careernb.com",
+    tel: "+1 314-320-1108",
     social: {
       GitHub: {
         name: "GitHub",
@@ -87,13 +87,13 @@ export const DATA = {
       },
       email: {
         name: "Send Email",
-        url: "mailto:gsatyapavankalyan21@gmail.com",
+        url: "mailto:satyapavan.k@careernb.com",
         icon: Icons.email,
         navbar: true,
       },
       "Download CV": {
         name: "Download Resume",
-        url: "",
+        url: "#",
         icon: Icons.download,
         navbar: true,
       },
