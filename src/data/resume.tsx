@@ -9,9 +9,9 @@ export const DATA = {
   location: "St.Louis, MO, USA",
   locationLink: "",
   description:
-    "Software Engineer (Frontend & Backend) | Building Scalable, Secure, and User-Centric Applications | Cloud & AI Enthusiast",
+    "Software Engineer (Full Stack) | Building Scalable, Secure, and User-Centric Applications | Cloud & AI Enthusiast",
   summary:
-    "I’m a Software Engineer experienced in building scalable, secure, and user-friendly applications using technologies like React, Angular Java, Spring Boot, Node.js, .NET and AWS. I enjoy working across the stack — from creating responsive UIs to designing robust APIs and cloud-native solutions. Passionate about data, AI, and continuous learning, I thrive in collaborative teams and love turning complex challenges into impactful solutions.",
+    "I’m a Software Engineer with strong experience building cloud-native, scalable, and secure applications, primarily on AWS. I’ve worked across the stack—from developing responsive UIs with React and Angular to designing and operating robust backend services using Java, Spring Boot, Node.js, and .NET. I enjoy building systems that are reliable in production, leveraging cloud infrastructure, automation, and observability to support real users at scale. Passionate about data, AI, and continuous learning, I thrive in collaborative teams and enjoy turning complex technical challenges into practical, impactful solutions.",
   avatarUrl: avatarImg,
   skills: [
     "React",
@@ -132,7 +132,7 @@ export const DATA = {
       href: "https://www.umsl.edu/",
       degree: "Masters in Computer Science",
       logoUrl:
-        "https://s.yimg.com/fz/api/res/1.2/aSVXUTfboj2CrtfyiX5KJQ--~C/YXBwaWQ9c3JjaGRkO2ZpPWZpdDtoPTI2MDtxPTgwO3c9MzMy/https://s.yimg.com/zb/imgv1/3003655d-7387-3a07-945d-d5a6aa1abc34/t_500x300",
+        "https://rightpath.com.np/uploads/university/16921791341928936513.jpg",
       start: "2023",
       end: "2024",
     },
