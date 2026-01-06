@@ -107,11 +107,11 @@ export const DATA = {
       badges: [],
       location: "St.Louis, MO",
       title: "Software Engineer",
-      logoUrl: "https://logos-marcas.com/wp-content/uploads/2021/02/JP-Morgan-Chase-Simbolo.png",
+      logoUrl: "https://uncficb.org/wp-content/uploads/2022/11/jp-morgan-chase-logo-unite-2022-1024x1024.png",
       start: "Jan 2024",
       end: "Present",
       description:
-        "At JPMorgan Chase, I helped build systems that made banking safer and more transparent for millions of users. I worked on a real-time fraud detection platform, built secure APIs, and developed an investment dashboard that gave clients clearer insights into their portfolios. I also streamlined deployments with CI/CD automation and set up monitoring tools to keep services reliable. Beyond the tech, I enjoyed mentoring teammates and collaborating across teams to deliver solutions that truly made an impact.",
+        " ",
     },
     {
       company: "OYO ROOMS",
@@ -123,7 +123,7 @@ export const DATA = {
       start: "Sep 2019",
       end: "Dec 2022",
       description:
-        "At OYO Rooms, I worked on building and scaling the hotel booking platform that powered thousands of reservations every day. I focused on making the system faster and more reliable by improving APIs, adding caching, and streamlining deployments. On the front end, I built reusable Angular components and worked with designers to create responsive, user-friendly interfaces. I also got the chance to integrate OYO with global platforms like Expedia and Booking.com, making bookings seamless across channels. Beyond the code, I enjoyed mentoring teammates and learning how to deliver technology that truly supported both the business and its users.",
+        " ",
     },
   ],
   education: [
