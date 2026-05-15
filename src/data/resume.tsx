@@ -9,7 +9,7 @@ export const DATA = {
   location: "St. Louis, MO, USA",
   locationLink: "",
   description:
-    "Software Engineer | QA Automation & Full Stack | Building Reliable, Scalable Systems in Regulated and High-Traffic Environments",
+    "Software Engineer | Full Stack (Backend leaning) & Cloud | Building Reliable, Scalable Systems in Regulated and High-Traffic Environments",
   summary:
     "I'm a Software Engineer with 5+ years of experience spanning full stack development, cloud infrastructure and QA Automation. At JPMorgan Chase, I built a multi-layer test automation framework from scratch, embedded it into CI/CD pipelines, and architected security and observability solutions that eliminated production incidents across enterprise financial products. At OYO Rooms, I designed regression frameworks for a platform serving millions of users, validated partner API integrations with Expedia and Booking.com, and improved API response times by 33% through Redis caching and PostgreSQL tuning. On the full stack side, I build and ship production applications end-to-end from React and TypeScript frontends to Spring Boot backends deployed on AWS. I thrive at the intersection of quality and engineering: writing systems that are testable by design, observable in production, and built to last.",
   avatarUrl: avatarImg,
