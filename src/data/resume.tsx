@@ -11,17 +11,16 @@ export const DATA = {
   description:
     "Software Engineer | QA Automation & Full Stack | Building Reliable, Scalable Systems in Regulated and High-Traffic Environments",
   summary:
-    "I'm a Software Engineer with 5+ years of experience spanning QA automation, full stack development, and cloud infrastructure. At JPMorgan Chase, I built a multi-layer test automation framework from scratch, embedded it into CI/CD pipelines, and architected security and observability solutions that eliminated production incidents across enterprise financial products. At OYO Rooms, I designed regression frameworks for a platform serving millions of users, validated partner API integrations with Expedia and Booking.com, and improved API response times by 33% through Redis caching and PostgreSQL tuning. On the full stack side, I build and ship production applications end-to-end from React and TypeScript frontends to Spring Boot backends deployed on AWS. I thrive at the intersection of quality and engineering: writing systems that are testable by design, observable in production, and built to last.",
+    "I'm a Software Engineer with 5+ years of experience spanning full stack development, cloud infrastructure and QA Automation. At JPMorgan Chase, I built a multi-layer test automation framework from scratch, embedded it into CI/CD pipelines, and architected security and observability solutions that eliminated production incidents across enterprise financial products. At OYO Rooms, I designed regression frameworks for a platform serving millions of users, validated partner API integrations with Expedia and Booking.com, and improved API response times by 33% through Redis caching and PostgreSQL tuning. On the full stack side, I build and ship production applications end-to-end from React and TypeScript frontends to Spring Boot backends deployed on AWS. I thrive at the intersection of quality and engineering: writing systems that are testable by design, observable in production, and built to last.",
   avatarUrl: avatarImg,
   skills: [
-    "Selenium WebDriver", "JUnit", "TestNG", "Rest Assured", "Postman",
-    "Cucumber/BDD", "Jest", "Cypress", "Playwright", "JMeter",
     "Java", "Python", "TypeScript", "JavaScript", "C#",
     "React", "Next.js", "Node.js", "Express", "Spring Boot", "GraphQL", "Redux",
     "AWS", "Docker", "Kubernetes", "Jenkins", "GitHub Actions", "Terraform",
     "PostgreSQL", "MySQL", "MongoDB", "Redis",
     "Grafana", "AWS CloudWatch", "ELK Stack",
     "Machine Learning", "Deep Learning", "Neural Networks", "Computer Vision", "Data Visualization",
+    "Selenium WebDriver", "JUnit", "TestNG", "Rest Assured", "Postman",
   ],
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
@@ -42,12 +41,12 @@ export const DATA = {
         icon: Icons.linkedin,
         navbar: true,
       },
-      X: {
-        name: "X",
-        url: "https://x.com/g_s_pavankalyan",
-        icon: Icons.x,
-        navbar: true,
-      },
+      // X: {
+      //   name: "X",
+      //   url: "https://x.com/g_s_pavankalyan",
+      //   icon: Icons.x,
+      //   navbar: true,
+      // },
       email: {
         name: "Send Email",
         url: "mailto:satyapavan.k@careernb.com",
@@ -69,24 +68,24 @@ export const DATA = {
       href: "https://www.jpmorganchase.com/",
       badges: [],
       location: "St. Louis, MO",
-      title: "Software Engineer (QA & Automation)",
+      title: "Software Engineer II",
       logoUrl: "https://uncficb.org/wp-content/uploads/2022/11/jp-morgan-chase-logo-unite-2022-1024x1024.png",
       start: "Jan 2024",
       end: "Present",
       description:
-        "Built a multi-layer Java test automation framework (JUnit, TestNG) from scratch, replacing ad-hoc scripts with unified coverage across functional, regression, integration, and API layers. Embedded test suites into Jenkins and GitHub Actions pipelines with parallel execution and environment gating, cutting deployment cycle time by 45% with zero post-release API incidents. Architected security test suites validating OAuth 2.0, JWT expiry edge cases, and SAML assertion integrity across Spring Boot and AWS Lambda services. Built AWS CloudWatch and Grafana observability pipelines with custom dashboards and threshold alerts, reducing MTTR by 30%. Designed React component test coverage using Jest, validating async state transitions, API timeout handling, and role-based UI gating. Mentored junior engineers on framework design, test isolation, and CI integration patterns.",
+        "Software Engineer at JPMorgan Chase, building enterprise-grade full stack systems with Java, Spring Boot, React, and AWS — delivering scalable APIs, CI/CD automation, and event-driven microservices for hundreds of internal developer teams.",
     },
     {
       company: "OYO Rooms",
       href: "https://oyorooms.com/",
       badges: [],
       location: "Haryana, Gurugram, India",
-      title: "Software Development Engineer (QA & Platform)",
+      title: "Software Development Engineer",
       logoUrl: "https://tse3.mm.bing.net/th?id=OIP.764pVAF7eWc3Bmgb0_1C_wAAAA&pid=Api&P=0&h=220",
       start: "Sep 2019",
       end: "Dec 2022",
       description:
-        "Designed a Java (JUnit) regression framework for core booking flows (search, availability, reservation, payment) on a platform serving millions of concurrent users, where inventory edge cases directly caused double-bookings or failed reservations. Built API test suites validating real-time sync with Expedia and Booking.com OTA integrations, targeting rate parity mismatches, stale inventory signals, and payload schema drift. Introduced Redis caching and rewrote slow PostgreSQL queries with indexing strategies, reducing API response times by 33%. Deployed Docker and Kubernetes test environments executing load and stress tests for high-traffic scenarios (festival seasons, flash sales). Built a shared regression framework adopted across QA and platform teams, cutting test onboarding time from days to hours.",
+        "Software Development Engineer at OYO Rooms, building high-traffic hotel booking systems using TypeScript, Node.js, React, and MongoDB — delivering scalable REST APIs, real-time inventory management, and containerized microservices on Kubernetes.",
     },
   ],
 
